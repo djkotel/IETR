@@ -1,0 +1,27 @@
+main {
+    min-height: 100vh;
+    background-color: #3771b8;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+td {
+    color: #ffffff;
+    font-size: 28px;
+}
+
+th {
+    color: #ffffff;
+    font-size: 28px;
+}
